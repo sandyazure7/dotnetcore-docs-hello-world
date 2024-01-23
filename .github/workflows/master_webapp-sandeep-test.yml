@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebApp-sandeep-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10FEA9D2505F4F2F9ED549CFE46FFA2C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4823CDA3123844F2BF4F2449E4FC6D54 }}
           package: .
